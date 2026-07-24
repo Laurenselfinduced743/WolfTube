@@ -28,6 +28,9 @@ WolfTube enhances the YouTube experience with powerful downloading tools, advanc
 - Access a complete downloads library directly inside YouTube.
 - View the video title, selected quality, file size, download date, and current progress.
 - Play downloaded media without leaving the downloads library.
+- Automatically resume downloaded videos and audio from the last playback position.
+- Save playback progress when pausing, locking the device, leaving the app, or seeking through the timeline.
+- Restart downloaded media from the beginning only after playback has finished completely.
 - Share, save, export, or delete downloaded files easily.
 - Manage all downloaded content from one organized interface.
 
@@ -41,6 +44,9 @@ WolfTube enhances the YouTube experience with powerful downloading tools, advanc
 - Adjustable playback speed from **0.5× to 10×**.
 - Stable Playback mode for improved compatibility and smoother playback.
 - Keep videos playing while using other applications.
+- Control downloaded media directly from the Lock Screen.
+- Skip forward or backward by **15 seconds** while playing downloaded media.
+- Display the channel name and video artwork on the Lock Screen while playing downloaded media.
 - Cleaner viewing experience with the option to hide the Shorts interface.
 
 ---
@@ -82,6 +88,8 @@ WolfTube enhances the YouTube experience with powerful downloading tools, advanc
 - Improved stability across supported YouTube versions.
 - Refined settings and interface organization.
 - Added support for multiple languages, including Arabic.
+- Built-in project validation system that detects potential issues before generating release builds.
+- Dedicated diagnostic tools for faster and more reliable troubleshooting.
 
 ---
 
@@ -149,7 +157,7 @@ WolfTube enhances the YouTube experience with powerful downloading tools, advanc
 
 ### Thank you for using WolfTube 🐺
 
-**WolfTube v1.19.3**
+**WolfTube v1.20.3**
 
 © 2026 WolfTube Developer. All rights reserved.
 
