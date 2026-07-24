@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐺 WolfTube v1.19.3
+# 🐺 WolfTube v1.20.3
 
 ### A more powerful YouTube experience for iOS
 
