@@ -146,9 +146,6 @@ WolfTube enhances the YouTube experience with powerful downloading tools, advanc
 
 ## ⚠️ Important Notes
 
-- Download the file attached specifically to this release.
-- Available video qualities depend on the source video.
-- Some features may vary depending on the installed YouTube or iOS version.
 - WolfTube is independently developed and is not affiliated with, endorsed by, or sponsored by YouTube or Google.
 
 ---
